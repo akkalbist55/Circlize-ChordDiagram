@@ -1,0 +1,52 @@
+install.packages("circlize")
+install.packages("dplyr")
+install.packages("tidyr")
+
+library(circlize)
+export_country <- c("DEU","USA","IDN","USA","IDN","USA","IDN","CAN","DEU","DEU","IDN","NZL","DEU","USA","USA","USA","IDN","SGP","IDN")
+import_country <- c("JPN","JPN","USA","JPN","TWN","CAN","CHN","USA","CHN","CHN","DEU","JPN","USA","DNK","JPN","CHN","JPN","CHN","CHN")
+flow <- c(2000,65780,78010,851,35353,845,738,120788,245900,90002,4426,6870,152681,78114,32591,19274,10915,23100,6275)
+
+df <- data.frame(export_country, import_country, flow,stringsAsFactors = FALSE)
+df[[3]] = log10(df[[3]])
+
+country = unique(c(df[[1]], df[[2]]))
+color <- c("#E41A1C","#800000","#ff8c00","#ffd700","#008000","#00bfff","#377EB8",
+           "#ff69b4","#800080","#4b0082")
+
+df1 <- data.frame(country, color,stringsAsFactors = FALSE)
+
+circos.clear()
+circos.par(start.degree = 90, gap.degree = 5, track.margin = c(-0.1, 0.1), points.overflow.warning = FALSE)
+par(mar = rep(0, 4))
+
+res = chordDiagram(x = df, grid.col = color, transparency = 0.25,
+                   order = country, directional = 1,
+                   direction.type = c("arrows", "diffHeight"), diffHeight  = -0.04,
+                   annotationTrack = c("grid"), annotationTrackHeight = c(0.05, 0.1),
+                   link.arr.type = "big.arrow", link.sort = TRUE, link.largest.ontop = TRUE)
+
+
+
+circos.trackPlotRegion(
+  track.index = 1, 
+  bg.border = NA, 
+  panel.fun = function(x, y) {
+    xlim = get.cell.meta.data("xlim")
+    sector.index = get.cell.meta.data("sector.index")
+    country = df1$country[df1$country == sector.index]
+    
+    circos.text(x = mean(xlim), y = 1.5, 
+                labels = country, facing = "bending", adj = c(0.5, 0), cex = 1, niceFacing = TRUE)
+    
+  }
+)
+
+for(i in seq_len(nrow(res))) {
+  circos.text(x = res$x1[i] - res$value[i]/2, y = 0.5, round(10^(res$value[i])), facing = "inside",
+              niceFacing = TRUE, adj = c(0.5, 0.5), cex = 0.5, col = "white", sector.index = res$rn[i], track.index = 1)
+  circos.text(x = res$x2[i] - res$value[i]/2, y = 0.5, round(10^(res$value[i])), facing = "inside",
+              niceFacing = TRUE, adj = c(0.5, 0.5), cex = 0.5, col = "white", sector.index = res$cn[i], track.index = 1)
+}
+chordDiagram(df)
+

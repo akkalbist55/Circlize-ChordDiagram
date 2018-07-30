@@ -1,0 +1,165 @@
+getwd()
+setwd("/home/akkal/RProject/CIRCOS/")
+library(circlize)
+df <- read.table("Data.csv", header = TRUE, sep = ",", stringsAsFactors = FALSE)
+
+library(dplyr)
+library(circlize)
+library(circular)
+library(tidyr)
+
+
+from = paste(df[[1]], df[[2]], sep = ",")
+to = paste(df[[3]], df[[7]], sep = ",")
+
+mat = matrix(0, nrow = length(unique(from)), ncol = length(unique(to)))
+rownames(mat) = unique(from)
+colnames(mat) = unique(to)
+for(i in seq_along(from)) mat[from[i], to[i]] = 1
+mat
+chordDiagram(mat)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+df1 <- df[, c(2, 3, 7)]
+df1
+df2 <- data.frame('Wildlife', 'WT', 'arrest_district')
+df2
+
+chordDiagram(df1)
+
+df2 <- c("Wildlife", "WT", "arrest_district")
+df3 <- df2[, df2]
+df3
+
+
+
+col_order <- c("Species", "Petal.Width", "Sepal.Length",
+               "Sepal.Width", "Petal.Length")
+my_data2 <- my_data[, col_order]
+my_data2
+
+
+
+
+
+
+
+
+
+
+
+
+
+chordDiagram(df1)
+df
+
+Q <- with(Data, table(Year, arrest_district))
+links2 <- crossprod(Q, Q) #make adjacency matrix from table csv
+links2 <- as.matrix(links2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## group by regions
+df2 = data.frame(from = paste(df[[1]], df[[3]], sep = "|"),
+                 to = paste(df[[2]], df[[3]], sep = "|"),
+                 value = df[[4]], stringsAsFactors = FALSE)
+
+combined = unique(data.frame(regions = c(df[[1]], df[[2]]), 
+                             species = c(df[[3]], df[[3]]), stringsAsFactors = FALSE))
+combined = combined[order(combined$regions, combined$species), ]
+order = paste(combined$regions, combined$species, sep = "|")
+col = rand_color(nrow(df))
+
+
+
+
+gap = rep(1, length(order))
+gap[which(!duplicated(combined$species, fromLast = TRUE))] = 5
+
+circos.par(gap.degree = gap)
+chordDiagram(df2, order = order, annotationTrack = c("grid", "axis"),
+             grid.col = grid.col, directional = TRUE,
+             preAllocateTracks = list(
+               track.height = 0.04,
+               track.margin = c(0.05, 0)
+             )
+)
+for(region in unique(combined$regions)) {
+  l = combined$regions == region
+  sn = paste(combined$regions[l], combined$species[l], sep = "|")
+  highlight.sector(sn, track.index = 1, col = color_regions[region], 
+                   text = region, niceFacing = TRUE)
+}
+circos.clear()
+
+legend("bottomleft", pch = 15, col = color_regions, 
+       legend = names(color_regions), cex = 0.6)
+legend("bottomright", pch = 15, col = color_species, l
+       egend = names(color_species), cex = 0.6)
+
+
+
+
+
+
+
+
+library(circlize)
+
+chordDiagram(freqpairs, annotationTrack = "grid", preAllocateTracks = list(track.height = 0.1))
+circos.trackPlotRegion(track.index = 1, panel.fun = function(x, y) {
+  xlim = get.cell.meta.data("xlim")
+  xplot = get.cell.meta.data("xplot")
+  ylim = get.cell.meta.data("ylim")
+  sector.name = get.cell.meta.data("sector.index")
+  if(abs(xplot[2] - xplot[1]) < 10) {
+    circos.text(mean(xlim), ylim[1], sector.name, facing = "clockwise",
+                niceFacing = TRUE, adj = c(0, 0.5))
+  } else {
+    circos.text(mean(xlim), ylim[1], sector.name, facing = "inside",
+                niceFacing = TRUE, adj = c(0.5, 0))
+  }
+}, bg.border = NA)
+

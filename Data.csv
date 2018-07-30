@@ -1,0 +1,445 @@
+SN,Wildlife,WT,PE,NU,RED,arrest_district,Year,Season
+1,Tiger,15,0,0,EN,Parsa,2011,Winter
+2,Rhinoceros,1,0,0,VU,Syanjha,2011,Winter
+3,Leopard,0,1,0,VU,Lalitpur,2011,Spring 
+4,Leopard,0,1,0,VU,Kavre,2011,Spring 
+5,Tiger,8.8,1,0,EN,Makwanpur,2011,Spring 
+7,Rhinoceros,0,12,0,VU,Kathmandu,2011,Spring 
+8,Rhinoceros,1,0,0,VU,Lalitpur,2011,Spring 
+9,Rhinoceros,1,0,0,VU,Kathmandu,2011,Spring 
+10,Rhinoceros,1,0,0,VU,Kathmandu,2011,Summer 
+11,Leopard,4.5,1,0,VU,Tanahun,2011,Summer 
+13,Red panda,0,2,0,EN,Kathmandu,2011,Autumn 
+25,Bear,0.073,0,0,VU,Kathmandu,2012,Winter
+27,Leopard,0,2,0,VU,Kathmandu,2012,Winter
+29,Leopard,0,1,0,VU,Kathmandu,2012,Winter
+30,Bear,0,2,0,VU,Kathmandu,2012,Winter
+31,Musk Deer,0,1,0,EN,Kathmandu,2012,Spring 
+33,Leopard,0,2,0,VU,Kavre,2012,Spring 
+34,Rhinoceros,1,0,0,VU,Kathmandu,2012,Spring 
+35,Rhinoceros,1,0,0,VU,Kaski,2012,Spring 
+37,elephant,0,2,0,EN,Kailali,2012,Summer 
+38,Bear,0.185,0,0,VU,Kathmandu,2012,Summer 
+41,Tiger,10,0,0,EN,Makwanpur,2012,Summer 
+42,Bear,2,0,0,VU,Kathmandu,2012,Summer 
+44,Leopard,0,2,0,VU,Lalitpur,2012,Summer 
+45,Tiger,0,1,0,EN,Kathmandu,2012,Autumn 
+48,Red panda,0,2,0,EN,Kathmandu,2012,Autumn 
+51,Leopard,0,1,0,VU,Sunsari,2013,Winter
+53,Tiger,0,12,0,EN,Kathmandu,2013,Spring 
+55,Pangolin,0,1,0,EN,Kathmandu,2013,Winter
+56,REd panda,0,1,0,EN,Nuwakot,2013,Winter
+61,Leopard,0,1,0,VU,Kathmandu,2013,Spring 
+62,Rhinoceros,1,0,0,VU,Chitwan,2013,Spring 
+63,Leopard,0,1,0,VU,Bhaktapur,2013,Spring 
+64,Leopard,0,1,0,VU,Kathmandu,2013,Spring 
+65,Leopard,0,1,0,VU,Kavre,2013,Spring 
+67,Rhinoceros,1,0,0,VU,Rautahat,2013,Spring 
+68,Rhinoceros,1,0,0,VU,Kathmandu,,
+70,Red panda,0,2,0,EN,Kathmandu,2013,Summer 
+71,Red panda,0,1,0,EN,Kathmandu,2013,Summer 
+73,Leopard,0,1,0,VU,Surkhet,2013,Summer 
+75,Red panda,0,2,0,EN,Kathmandu,2013,Summer 
+76,Red panda,0,1,0,EN,Kathmandu,2013,Summer 
+77,Red panda,0,3,0,EN,Kathmandu,2013,Autumn 
+78,Red panda,0,1,0,EN,Kathmandu,2013,Autumn 
+79,Red panda,0,1,0,EN,Jhapa,2013,Winter
+80,Owl,0,1,0,Undefined,Jhapa,2013,Winter
+81,Python ,0,0,1,VU ,Kathmandu,2013,Winter
+83,Tiger,0.2,0,0,EN,Kathmandu,2014,Winter
+84,Musk Deer,0,2,0,EN,Kathmandu,2014,Winter
+85,Pangolin,0,0,1,EN,Kathmandu,2014,Spring 
+86,Owl,0,0,1,Undefined,Kathmandu,2014,Spring 
+87,Leopard,0,1,0,VU,Kathmandu,2014,Spring 
+89,Red panda,0,2,0,EN,Sindhupalchok,2014,Spring 
+90,Red panda,0,2,0,EN,Kathmandu,2013,Spring 
+91,elephant,0,3,0,EN,Bhaktapur,2014,Spring 
+94,elephant,0,8,0,EN,Lalitpur,2014,Spring 
+95,Leopard,1.5,1,0,VU,Kavre,2014,Summer 
+96,Leopard,0,1,0,VU,Lalitpur,2014,Summer 
+97,Leopard,0,1,0,VU,Kathmandu,2014,Summer 
+98,Rhinoceros,1,0,0,VU,Makwanpur,2014,Summer 
+99,Owl,0,0,1,Undefined,Kathmandu,2014,Summer 
+103,Leopard,0,1,0,VU,Kathmandu,2014,Summer 
+104,Leopard,0,1,0,VU,Kathmandu,2014,Summer 
+115,Leopard,0,2,0,VU,Kathmandu,2014,Autumn 
+116,Leopard,0,1,0,VU,Nuwakot,2014,Autumn 
+118,Red panda,0,1,0,EN,Bhaktapur,2014,Winter
+120,Leopard,0,1,0,VU,Nuwakot,2014,Winter
+123,Rhinoceros,1,0,0,VU,Bhaktapur,2015,Winter
+125,elephant,0,1,0,EN,Parsa,2015,Winter
+126,Leopard,0,1,0,VU,Kathmandu,2015,Winter
+128,Tiger,11.79,1,0,EN,Surkhet,2015,Winter
+131,Red panda,0,1,0,EN,Kathmandu,2015,Spring 
+137,Bear,0,1,0,VU,Kathmandu,2015,Spring 
+138,Leopard,0,1,0,VU,Kathmandu,2015,Spring 
+139,Leopard,0,1,0,VU,Kathmandu,2015,Summer 
+142,Leopard,0,1,0,VU,Kathmandu,2015,Summer 
+146,Rhinoceros,0.65,0.65,0,VU,Kathmandu,2015,Summer 
+148,Leopard,0,1,0,VU,Kathmandu,2015,Summer 
+149,Tortoise,0,0,1,Undefined,Kathmandu,2015,Summer 
+150,elephant,0,19,0,EN,Kathmandu,2015,Summer 
+156,Red Panda,0,1,0,EN,Sindhupalchok,2015,Autumn 
+157,Leopard,0,1,0,VU,Kathmandu,2015,Autumn 
+158,Bear,0,1,0,VU,Kathmandu,2015,Autumn 
+159,Pangolin,0,4,0,EN,Kathmandu,2015,Autumn 
+163,Bear,0,1,0,VU,Kathmandu,2015,Autumn 
+164,Tortoise,0,0,1,Undefined,Bhaktapur,2015,Autumn 
+165,Red Panda,0,1,0,EN,Kathmandu,2015,Autumn 
+166,Owl,0,0,1,Undefined,Kathmandu,2015,Autumn 
+167,Pangolin,0,0,1,EN,Bhaktapur,2015,Winter
+168,Tortoise,0,0,1,Undefined,Lalitpur,2015,Winter
+169,Tortoise,0,0,1,Undefined,Lalitpur,2015,Winter
+170,Leopard,6,4,1,VU,Darchula,2012,Autumn 
+172,Tiger,6.2,1,0,EN,Darchula,2013,Spring 
+173,Leopard,0,5,0,VU,Darchula,2013,Spring 
+174,elephant,6,0,0,EN,Darchula,2013,Spring 
+176,Tiger,15,4,0,EN,Darchula,2015,Summer 
+177,Leopard,15,6,0,VU,Darchula,2015,Summer 
+191,Goral,0,5,0,NT,Ilam,2013,Spring 
+198,Bear,0,4,0,VU,Sankhuwasabha,2011,Summer 
+201,Tiger,0,1,0,EN,Sankhuwasabha,2011,Autumn 
+202,Bear,0,1,0,VU,Sankhuwasabha,2011,Autumn 
+203,Bear,0,2,0,VU,Sankhuwasabha,2011,Autumn 
+209,Musk Deer,0,1,0,EN,Sankhuwasabha,2014,Summer 
+212,Leopard,0,2,0,VU,Tanahun,2013,Winter
+218,Leopard,0,1,0,VU,Makwanpur,2012,Summer 
+219,Tiger,0,401,0,EN,Makwanpur,2012,Summer 
+221,Pangolin,0,300,0,EN,Makwanpur,2012,Autumn 
+222,Python ,0,2,1,VU ,Makwanpur,2012,Autumn 
+224,Red panda,0,3,0,EN,Makwanpur,2013,Spring 
+225,Leopard,0,82,1,VU,Makwanpur,2014,Spring 
+226,Python ,0,1,0,VU ,Makwanpur,2014,Spring 
+245,Pangolin,0.02,0,0,EN,Dolakha,,
+246,Bear,0,1,0,VU,Achham,2012,Spring 
+247,Bear,0,1,0,VU,Achham,2012,Winter
+248,Bear,0,1,0,VU,Achham,2012,Spring 
+249,Bear,0,1,0,VU,Achham,2012,Spring 
+250,Bear,0,1,0,VU,Achham,2012,Spring 
+251,Bear,0,1,0,VU,Achham,2013,Winter
+252,Bear,0,1,0,VU,Achham,2013,Spring 
+253,Bear,0,1,0,VU,Achham,2013,Spring 
+254,Bear,0,1,0,VU,Achham,2013,Spring 
+256,Leopard,0,1,0,VU,Bhaktapur,2012,Spring 
+259,Red panda,0,2,0,EN,Bhaktapur,2014,Spring 
+262,Seahorse,4.7,0,0,Undefined,Bhaktapur,2014,Winter
+263,Leopard,0,1,0,VU,Bhaktapur,2014,Autumn 
+265,Red panda,0,1,0,EN,Bhaktapur,2014,Autumn 
+266,Red panda,0,1,0,EN,Bhaktapur,2014,Winter
+267,Leopard,2.2,0,0,VU,Bhaktapur,2015,Spring 
+269,Pangolin,0,0,1,EN,Bhaktapur,2015,Winter
+273,Owl,0,0,1,Undefined,Gorkha,2012,Spring 
+274,Owl,0,0,2,Undefined,Gorkha,2012,Spring 
+275,Leopard,4.8,1,0,VU,Gorkha,2012,Autumn 
+279,Leopard,2.5,1,0,VU,Nawalparasi,2013,Summer 
+282,Leopard,0,1,0,VU,Nawalparasi,2014,Spring 
+283,Leopard,0,1,0,VU,Nawalparasi,2014,Spring 
+287,Owl,0,0,1,Undefined,Kailali,2011,Spring 
+289,Rhinoceros,1,0,0,VU,Kailali,2011,Autumn 
+292,Leopard,2.6,1,0,VU,Kailali,2013,Spring 
+300,Leopard,1.4,1,0,VU,Kailali,2014,Autumn 
+302,Leopard,0,1,0,VU,Kailali,2014,Winter
+303,Leopard,10.735,1,0,VU,Kailali,2015,Winter
+305,Leopard,2.3,1,0,VU,Kailali,2015,Summer 
+306,Tiger,0,1,0,EN,Kailali,2015,Summer 
+307,Leopard,8,1,0,VU,Kailali,2015,Summer 
+309,Tiger,3.25,1,0,EN,Kailali,2015,Autumn 
+310,Leopard,0,1,0,VU,Lalitpur,2011,Spring 
+312,Rhinoceros,1,0,0,VU,Lalitpur,2011,Spring 
+313,Leopard,0,1,0,VU,Lalitpur,2013,Winter
+314,Elephant,0,4,0,EN,Lalitpur,2013,Spring 
+315,Leopard,0,1,0,VU,Lalitpur,2014,Summer 
+318,Tortoise,0,0,1,Undefined,Lalitpur,2015,Summer 
+320,Pangolin,0,1,0,EN,Lalitpur,2015,Summer 
+325,Leopard,1,0,0,VU,Kavre,2012,Summer 
+327,leopard,0,1,0,VU,Kavre,2011,Spring 
+330,Leopard,0,2,0,VU,Kavre,2012,Spring 
+331,Leopard,0,1,0,VU,Kavre,2013,Spring 
+341,Leopard,10.5,4,0,VU,Dadeldhura,2015,Spring 
+347,Tiger,19,0,0,EN,Kanchanpur,2015,Winter
+350,Tiger,21,0,0,EN,Kanchanpur,2015,Spring 
+354,Pangolin,0,3,0,EN,Sarlahi,2013,Winter
+357,Musk Deer,0,3,0,EN,Bara,2012,Spring 
+358,Spotted deer,0,2,0,LC,Bara,2013,Winter
+359,Tiger,3.5,0,0,EN,Bara,2013,Spring 
+362,Tiger,7.95,10,0,EN,Bara,2014,Winter
+364,Tortoise,0,0,1,Undefined,Jhapa,,
+365,Red panda,0,0,1,EN,Jhapa,2013,Winter
+366,Python ,0,0,1,VU ,Jhapa,,
+378,Leopard,0,1,0,VU,Sindhupalchok,2011,Spring 
+391,Bear,0,10,0,VU,Sindhupalchok,2013,Winter
+396,Red panda,0,1,0,EN,Sindhupalchok,2015,Autumn 
+399,Bear,0,4,0,VU,Udayapur,2015,Spring 
+403,Leopard,0,1,0,VU,Solukhumbu,2012,Autumn 
+404,Musk Deer,0,1,0,EN,Solukhumbu,2014,Winter
+408,Leopard,2.685,1,0,VU,Chitwan,2013,Winter
+414,Rhinoceros,1,12,0,VU,Chitwan,2013,Autumn 
+420,Tortoise,0,0,1,Undefined,Chitwan,2013,Winter
+421,Python ,0,0,1,VU ,Chitwan,2015,Spring 
+424,Rhinoceros,1,0,0,VU,Morang,2011,Spring 
+426,Bear,0,0,2,VU,Morang,2011,Autumn 
+428,Python ,0,0,2,VU ,Morang,2011,Autumn 
+435,Owl,0,0,1,Undefined,Morang,2011,Autumn 
+441,Musk Deer,0,2,0,EN,Morang,2012,Spring 
+445,Pangolin,0,0,2,EN,Morang,2015,Summer 
+448,Leopard,4.8,1,0,VU,Baitadi,2015,Spring 
+454,Rhinoceros,1,0,0,VU,Parsa,2015,Spring 
+457,Tortoise,0,3,0,Undefined,Dang,2012,Spring 
+459,Tiger,0,5,0,EN,Dang,2014,Spring 
+460,Leopard,0,140,0,VU,Dang,2014,Spring 
+461,Leopard,0,5,0,VU,Dang,2014,Summer 
+465,Leopard,0,2,0,VU,Dang,2015,Autumn 
+470,Seahorse,0,1,0,Undefined,Sunsari,2013,Summer 
+497,Leopard,0,1,0,VU,Kathmandu,2014,Spring 
+499,Leopard,0,1,0,VU,Kathmandu,2014,Summer 
+500,Leopard,0,1,0,VU,Kathmandu,2013,Autumn 
+504,Red panda,0,1,0,EN,Kathmandu,2014,Winter
+506,Red panda,0,1,0,EN,Kathmandu,2014,Autumn 
+507,Red panda,0,1,0,EN,Kathmandu,2015,Spring 
+508,Red panda,0,1,0,EN,Kathmandu,2015,Spring 
+509,Red panda,0,2,0,EN,Kathmandu,2014,Summer 
+510,Red panda,0,1,0,EN,Kathmandu,2015,Summer 
+511,Tortoise,0,0,1,Undefined,Kathmandu,2015,Summer 
+512,Leopard,0,1,0,VU,Kathmandu,2015,Summer 
+514,Leopard,0,1,0,VU,Kathmandu,2015,Autumn 
+515,Leopard,0,1,0,VU,Kathmandu,2015,Autumn 
+516,Elephant,0,3,0,EN,Kathmandu,2015,Autumn 
+517,Pangolin,0,1,0,EN,Kathmandu,2015,Winter
+518,Red panda,0,1,0,EN,Kathmandu,2015,Winter
+519,Leopard,0,1,0,VU,Surkhet,2013,Summer 
+520,Bear,0,47,0,VU,Surkhet,2014,Summer 
+521,Leopard,0,16,0,VU,Surkhet,2013,Autumn 
+522,Musk Deer,0,6,0,EN,Surkhet,2015,Winter
+523,Tiger,0,63,0,EN,Surkhet,2015,Spring 
+524,Leopard,0,41,0,VU,Surkhet,2015,Spring 
+525,Tiger,5.25,0,0,EN,Surkhet,2015,Autumn 
+526,Leopard,8.13,1,0,VU,Surkhet,2015,Winter
+527,Rhinoceros,1,0,0,VU,Dhading,2011,Summer 
+528,Leopard,0,1,0,VU,Dhading,2012,Winter
+529,Leopard,0,1,0,VU,Dhading,2013,Spring 
+530,Owl,0,0,1,Undefined,Dhading,2013,Spring 
+533,Owl,0,0,1,Undefined,Dhading,2015,Summer 
+534,Leopard,0,1,0,VU,Darchula,2014,Winter
+535,Tiger,5.3,0,0,EN,Bara,2011,Autumn 
+540,Tiger,0,1,0,EN,Bara,2013,Winter
+544,Red panda,0,1,0,EN,Rasuwa,2014,Autumn 
+545,Red panda,3,1,0,EN,Rasuwa,2014,Autumn 
+546,Musk Deer,2,2,0,EN,Sindhupalchok,2015,Winter
+547,Red panda,0,2,0,EN,Rasuwa,2015,Spring 
+549,Red panda,0,1,0,EN,Rasuwa,2014,Summer 
+553,Musk Deer,0,1,0,EN,Solukhumbu,2014,Summer 
+560,Sambar deer ,2,0,0,VU,Chitwan,2013,Autumn 
+562,Spotted deer,5,0,0,LC,Chitwan,2014,Winter
+565,Spotted deer,0,0,2,LC,Chitwan,2015,Winter
+568,Spotted deer,5,0,0,LC,Chitwan,2015,Spring 
+571,Spotted deer,0,0,1,LC,Chitwan,2015,Autumn 
+577,Musk Deer,1,12,0,EN,Musatang,2012,Summer 
+585,Goral,7.5,0,0,NT,Kaski,2015,Summer 
+590,Sambar deer ,2,0,0,VU,Banke,2012,Winter
+591,Sambar deer ,2,0,0,VU,Banke,2012,Winter
+592,Sambar deer ,2,0,0,VU,Banke,2013,Winter
+593,Sambar deer ,2,0,0,VU,Banke,2013,Winter
+594,Sambar deer ,2,0,0,VU,Banke,2012,Summer 
+595,Sambar deer ,2,0,0,VU,Banke,2012,Winter
+596,Sambar deer ,2,0,0,VU,Banke,2012,Spring 
+599,Goral,6,0,1,NT,Banke,2012,Summer 
+601,Spotted deer,0,0,1,LC,Banke,2012,Autumn 
+604,Spotted deer,0,0,1,LC,Banke,2013,Summer 
+607,Spotted deer,2,0,0,LC,Banke,2013,Winter
+609,Sambar deer ,5,1,0,VU,Banke,2013,Winter
+612,Spotted deer,1,1,0,LC,Banke,2014,Summer 
+613,Sambar deer ,2,0,0,VU,Banke,2014,Summer 
+614,Spotted deer,2.5,0,0,LC,Banke,2015,Spring 
+616,Goral,0,1,1,NT,RNP,2011,Summer 
+617,Bear,1,4,0,VU,RNP,2011,Autumn 
+625,Tiger,18,1,0,EN,Kanchanpur,2015,Winter
+626,Leopard,0,1,0,VU,Kanchanpur,2015,Spring 
+627,Rhinoceros,0.2,0,0,VU,Chitwan,2011,Winter
+629,tiger,15,0,0,EN,Parsa,2011,Winter
+632,Rhinoceros,0.95,0,0,VU,Kathmandu,2011,Summer 
+633,Bear,0,4,0,VU,Sankhuwasabha,2011,Summer 
+635,Bear,0,5,0,VU,Sankhuwasabha,2011,Summer 
+637,Goral,0,5,0,NT,Sankhuwasabha,2011,Summer 
+641,Rhinoceros,1,0,0,VU,Kathmandu,2012,Winter
+644,Spotted Deer,0,1,0,LC,KTWLR,2012,Spring 
+652,Rhinoceros,0.34,0,0,VU,Kathmandu,2012,Spring 
+653,Leopard,0,1,0,VU,Kathmandu,2012,Spring 
+657,Rhinoceros,0,3,0,VU,Chitwan,2012,Summer 
+661,Bear,0,5,0,VU,Sankhuwasabha,2012,Autumn 
+662,Rhinoceros,2,0,0,VU,Bardiya,2011,Winter
+663,Rhinoceros,1,0,0,VU,Makwanpur,2011,Winter
+664,Tiger,15,0,0,EN,Parsa,2011,Winter
+665,Rhinoceros,1,0,0,VU,Lalitpur,2011,Spring 
+666,Owl,0,0,5,Undefined,Kathmandu,2011,Spring 
+668,tiger,0,2,0,EN,Udayapur,2011,Spring 
+671,Leopard,0,2,0,VU,kanchanpur,2011,Summer 
+675,Pangolin,10,10,0,EN,Sindhupalchok,2011,Summer 
+679,Rhinoceros,0.85,0,0,VU,Kailali,2011,Autumn 
+680,Bear,0,1,0,VU,Kathmandu,2011,Winter
+681,Musk Deer,0,2,0,EN,Kathmandu,2011,Winter
+683,Leopard,0,0,1,VU,Doti,2012,Winter
+685,Rhinoceros,1,0,0,VU,Kathmandu,2012,Winter
+686,Pangolin,6,6,0,EN,Ilam,2012,Spring 
+688,Rhinoceros,1,0,0,VU,kaski,2012,Spring 
+691,Pangolin,0,50,1,EN,Panchthar,2012,Summer 
+692,Pangolin,1,1,0,EN,kavre,2012,Summer 
+693,Elephant,0,0,1,EN,Jhapa,2012,Summer 
+696,Rhinoceros,0,3,0,VU,Chitwan,2012,Summer 
+697,Elephant,0,1,0,EN,Jhapa ,2012,Summer 
+698,Pangolin,1,1,0,EN,Sindhupalchok,2012,Autumn 
+700,Red Panda,0,0,1,EN,Panchthar,,
+702,Musk Deer,0,1,0,EN,Sindhupalchok,2015,Winter
+704,Goral,0,2,0,NT,Sindhupalchok,2015,Winter
+711,Spotted Deer,2,0,0,LC,Kanchanpur,2015,Winter
+712,Leopard,0,1,0,VU,Bhaktapur,2015,Winter
+713,Tiger,19,1,0,EN,Kanchanpur,2015,Winter
+714,Rhinoceros,0.506,0,0,VU,Parsa,2015,Winter
+716,Leopard,0,2,0,VU,Nuwakot,2014,Winter
+717,Leopard,0,2,0,VU,Bardiya,2014,Winter
+718,Tiger,0,2,0,EN,Bardiya,2014,Winter
+721,Red Panda,0,1,0,EN,Dolakha,2014,Autumn 
+723,Leopard,1.4,1,0,VU,Kailali,2014,Autumn 
+724,Red Panda,0,5,0,EN,Kathmandu,2014,Autumn 
+725,Tiger,0,14,0,EN,Sankhuwasabha,2014,Autumn 
+726,Red Panda,0,1,0,EN,Nuwakot,2014,Autumn 
+727,Pangolin,4,4,0,EN,Dolakha,2014,Autumn 
+729,Red Panda,0,1,0,EN,Bhaktapur,2014,Autumn 
+731,Musk Deer,0,1,0,EN,Solukhumbu,2014,Winter
+732,Rhinoceros,1,0,0,VU,Kathmandu,2014,Winter
+733,Tiger,0,0,1,EN,Baitadi,2012,Summer 
+734,Tiger,0,2,0,EN,Baitadi,2012,Autumn 
+735,Tiger,0,1,0,EN,Kathmandu,2012,Autumn 
+736,Red Panda,0,1,0,EN,Kathmandu,2012,Autumn 
+737,Tortoise,2,0,0,Undefined,Makwanpur,2012,Autumn 
+739,Red Panda,0,1,0,EN,Jajarkot,2012,Autumn 
+740,Pangolin,0,1,0,EN,Sankhuwasabha,2012,Autumn 
+744,Rhinoceros,0,0,1,VU,Nawalparasi,,
+745,Bear,0,0,4,VU,Jajarkot,2012,Autumn 
+746,Leopard,0,4,0,VU,Darchula,2012,Autumn 
+751,Rhinoceros,1,0,0,VU,Chitwan,2013,Spring 
+754,Leopard,0,2,0,VU,Dhading,2013,Spring 
+755,Pangolin,2,2,0,EN,Jhapa,2013,Spring 
+757,Tiger,0,12,0,EN,Bara,2013,Spring 
+759,Tiger,0,0,1,EN,Kailali,2014,Summer 
+762,Leopard,4.8,1,0,VU,Baitadi,2015,Spring 
+764,Leopard,0,0,2,VU,Siraha,2015,Spring 
+766,Leopard,0,1,0,VU,Kathmandu,,
+767,Tiger,0,6,0,EN,Salyan,2015,Spring 
+771,Tortoise,0,0,1,Undefined,Lalitpur,2015,Summer 
+773,Tiger,0,1,0,EN,Darchula,2015,Summer 
+774,Tiger,0,1,0,EN,Kanchanpur,2015,Summer 
+775,Tiger,21,1,0,EN,Kanchanpur,2015,Summer 
+776,Tiger,0,1,0,EN,Darchula,2015,Spring 
+781,Pangolin,0,0,1,EN,Jhapa,2015,Summer 
+786,Musk Deer,0,3,0,EN,Banke,2015,Summer 
+790,Spotted deer,1,0,0,LC,Kanchanpur,2015,Winter
+791,Red Panda,0,1,0,EN,Sindhupalchok,2015,Autumn 
+792,Leopard,0,2,0,VU,Dang,2015,Autumn 
+793,Pangolin,0,0,1,EN,Palpa,2015,Autumn 
+794,Rhinoceros,0,0,1,VU,Chitwan,2015,Autumn 
+795,Tiger,0,1,0,EN,Kathmandu,2015,Autumn 
+796,Tiger,3,0,0,EN,Bardiya,2013,Spring 
+797,Pangolin,17,17,0,EN,Sunsari,2013,Spring 
+799,Tiger,53,6,0,EN,Gorkha,,
+800,Pangolin,1.8,1.8,0,EN,Kathmandu,,
+802,Red Panda,0,1,0,EN,Nuwakot,,
+803,Leopard,0,1,0,VU,Chitwan,2013,Winter
+804,Leopard,0,1,0,VU,Dolakha,2013,Winter
+808,Pangolin,2.685,2.685,0,EN,Bhaktapur,2012,Winter
+809,Seahorse,4.707,4.707,0,Undefined,Bhaktapur,2012,Winter
+810,Red Panda,0,3,0,EN,Kathmandu,2012,Winter
+811,Rhinoceros,1,0,0,VU,Chitwan,2012,Autumn 
+812,Leopard,0,1,0,VU,Dhading,2012,Winter
+813,Bear,0,0,2,VU,Jajarkot,2012,Winter
+814,Bear,0,1,0,VU,Kathmandu,2013,Autumn 
+815,Tiger,0,2,0,EN,Kathmandu,2012,Winter
+816,Rhinoceros,1,0,0,VU,Kathmandu,2012,Winter
+818,Pangolin,7.2,7.2,0,EN,Sankhuwasabha,2012,Summer 
+819,Pangolin,27,27,0,EN,Sankhuwasabha,2012,Summer 
+820,Pangolin,7,7,0,EN,Sankhuwasabha,2012,Summer 
+821,Tiger,53,2,0,EN,Gorkha,2013,Winter
+822,Tiger,0,5,0,EN,Nuwakot,2013,Winter
+824,Pangolin,21.1,21.1,0,EN,Sunsari,2013,Winter
+826,Tiger,7,0,0,EN,Bara,2011,Autumn 
+828,Tiger,0,1,0,EN,Kathmandu,2011,Spring 
+829,Leopard,0,1,0,VU,Kavre,2011,Spring 
+830,Leopard,0,0,1,VU,Pyuthan,2011,Summer 
+832,Rhinoceros,1,0,0,VU,Chitwan,2011,Autumn 
+836,Bear,0,1,0,VU,Kathmandu,2011,Summer 
+838,Elephant,0,2,0,EN,Jhapa,2012,Summer 
+839,Tiger,2,3,0,EN,Kathmandu,2012,Winter
+841,Tiger,0,1,0,EN,Kailali,2014,Winter
+844,Rhinoceros,0,12,0,VU,Bardiya,2014,Summer 
+846,Musk Deer,0,1,0,EN,Sankhuwasabha,2014,Summer 
+849,Red Panda,0,1,0,EN,Kathmandu,2014,Autumn 
+857,Red Panda,0,2,0,EN,Sindhupalchok,2014,Spring 
+858,Tiger,2.2,0.8,0,EN,Makwanpur,2014,Spring 
+865,Tiger,400,1,0,EN,Tanahun,2014,Spring 
+869,Leopard,0,1,0,VU,Kathmandu,2014,Spring 
+870,Elephant,1.73,0,0,EN,Lalitpur,,
+872,Tortoise,2,0,1,Undefined,Lalitpur,,
+874,Leopard,0,0,1,VU,Kathmandu,2014,Spring 
+875,Spotted deer,22,0,0,LC,Parsa,2014,Spring 
+880,Leopard,0,1,0,VU,Nawalparasi,2014,Spring 
+881,Owl,0,0,1,Undefined,Bardiya,,
+882,Bear,0,14,0,VU,Dhanusa,2014,Spring 
+885,Leopard,0,1,0,VU,Lalitpur,,
+886,Leopard,0,1,0,VU,Kathmandu,,
+887,Pangolin,1,1,0,EN,Kathmandu,,
+888,Spotted deer,0,1,0,LC,Sunsari,,
+891,Pangolin,2,2,0,EN,Jhapa,2013,Spring 
+893,Tiger,0,23,0,EN,Kathmandu,,
+894,Elephant,0,1,0,EN,Sindhupalchok,2013,Spring 
+895,Leopard,0,2,0,VU,Kathmandu,2013,Summer 
+896,Red Panda,0,2,0,EN,Kathmandu,2013,Summer 
+897,Elephant,1,0,0,EN,Kathmandu,2013,Summer 
+898,Tortoise,1,1,0,Undefined,Sindhupalchok,2013,Summer 
+899,Pangolin,2.1,2.1,0,EN,Sindhupalchok,,
+900,Red Panda,0,1,0,EN,Kathmandu,2013,Summer 
+903,Red Panda,0,3,0,EN,Kathmandu,2013,Summer 
+905,Red Panda,0,1,0,EN,Nuwakot,2013,Winter
+909,Red Panda,0,2,0,EN,Jhapa,,
+910,Bear,0,10,0,VU,Kathmandu,2013,Winter
+915,Pangolin,18.5,18.5,0,EN,Sankhuwasabha,,
+916,Pangolin,5,5,0,EN,Sankhuwasabha,,
+922,Leopard,15,6,0,VU,Darchula,2012,Winter
+924,Pangolin,35,35,0,EN,Darchula,2012,Winter
+928,Tiger,0,5,0,EN,Kathmandu,2014,Winter
+932,Tiger,0,1,0,EN,Kanchanpur,2015,Winter
+933,Tiger,4,1,0,EN,Baitadi,2015,Spring 
+935,Tortoise,0,0,5,Undefined,Lalitpur,2015,Winter
+936,Pangolin,3.2,0,0,EN,Kathmandu,2015,Winter
+938,Pangolin,4.9,4.9,0,EN,Ilam,,
+941,Tiger,0,1,0,EN,Bardiya,2015,Spring 
+942,Owl,0,0,2,Undefined,Kathmandu,2012,Summer 
+943,Owl,0,0,2,Undefined,Kathmandu,2011,Spring 
+944,Elephant,21,0,0,EN,Lalitpur,,
+950,Rhinoceros,0,1,0,VU,Mahottari,2013,Spring 
+952,Red Panda,0,2,0,EN,Bhaktapur,,
+953,Pangolin,9,9,0,EN,Sindhupalchok,2013,Spring 
+956,Pangolin,80,80,0,EN,Sindhupalchok,2013,Spring 
+958,Tiger,1.24,0,0,EN,Bardiya,2013,Spring 
+961,Tiger,400,8,0,EN,Nuwakot,2013,Spring 
+962,Pangolin,40,40,0,EN,Darchula,2013,Spring 
+963,Red Panda,0,3,0,EN,Makwanpur,2013,Summer 
+965,Sambar deer ,1,0,0,VU,Sindhupalchok,2013,Summer 
+971,Pangolin,48,48,0,EN,Bhaktapur,2013,Summer 
+973,Tiger,0,3,0,EN,Dang,2013,Summer 
+974,Leopard,0,3,0,VU,Dang,2013,Summer 
+975,Pangolin,40,40,0,EN,Dang,2013,Summer 
+976,Spotted deer,3,0,0,LC,Banke,2013,Summer 
+978,Python ,0,1,0,VU ,Kathmandu,2013,Summer 
+979,Pangolin,14,14,0,EN,Kathmandu,,
+981,Leopard,2.445,1,0,VU,Surkhet,2015,Spring 
+984,Pangolin,10,10,0,EN,Sindhupalchok,,
+985,Bear,0,5,0,VU,Sankhuwasabha,2011,Summer 
+986,Red Panda,0,2,0,EN,Kathmandu,2011,Summer 
+1000,Bear,0,5,0,VU,Sankhuwasabha,2012,Autumn 
+1002,tiger,0,1,0,EN,Kathmandu,2011,Spring 
+1005,Leopard,0,2,0,VU,Dolakha,2011,Summer 
+1007,tiger,7.5,0,0,EN,Bara,2011,Autumn 
+1013,Rhinoceros,1,0,0,VU,Kathmandu,2012,Winter
+1014,Pangolin,4,4,0,EN,Ilam,2012,Spring 
+1017,Bear,0.182,0,0,VU,Kathmandu,2012,Summer 
+1018,Red Panda,0,1,0,EN,Kathmandu,2011,Summer 
+1019,Rhinoceros,0,3,0,VU,Chitwan,2012,Summer 
